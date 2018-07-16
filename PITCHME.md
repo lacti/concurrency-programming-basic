@@ -1,6 +1,8 @@
 @title[Title]
 
-## Concurrency
+## Basic concurrency programming
+
+from a network programming perspective.
 
 ---
 @title[Table of contents]
