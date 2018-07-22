@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lacti/concurrency-programming-basic.git"
+    "url": "git+https://github.com/v6x/concurrency-programming-basic.git"
   },
   "author": "jaeyoung.choi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lacti/concurrency-programming-basic/issues"
+    "url": "https://github.com/v6x/concurrency-programming-basic/issues"
   },
-  "homepage": "https://github.com/lacti/concurrency-programming-basic#readme",
+  "homepage": "https://github.com/v6x/concurrency-programming-basic#readme",
   "devDependencies": {
     "mermaid.cli": "^0.5.1"
   }
